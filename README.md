@@ -6,8 +6,8 @@ El Parque Kennedy, ubicado en el distrito de Miraflores, es conocido por ser un 
 Un grupo de voluntarios ha decidido crear un sistema para gestionar las adopciones, seguimiento de la salud de los gatitos, y coordinar la ayuda de los voluntarios.
 
 ## Requerimientos del Sistema:
-Registro de Gatitos:
 
+### Registro de Gatitos:
 Cada gatito debe ser registrado con un ID único, nombre, edad aproximada, sexo, fecha de ingreso al parque, y estado de salud.
 Los gatitos pueden tener una o más fotos asociadas.
 
