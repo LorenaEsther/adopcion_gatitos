@@ -1,17 +1,17 @@
 # adopcion_gatitos
-##Sistema de Gestión de Adopción de Gatitos en el Parque Kennedy
+## Sistema de Gestión de Adopción de Gatitos en el Parque Kennedy
 
-#Contexto:
+# Contexto:
 El Parque Kennedy, ubicado en el distrito de Miraflores, es conocido por ser un lugar donde muchos gatitos residen y esperan ser adoptados. 
 Un grupo de voluntarios ha decidido crear un sistema para gestionar las adopciones, seguimiento de la salud de los gatitos, y coordinar la ayuda de los voluntarios.
 
-Requerimientos del Sistema:
+# Requerimientos del Sistema:
 Registro de Gatitos:
 
 Cada gatito debe ser registrado con un ID único, nombre, edad aproximada, sexo, fecha de ingreso al parque, y estado de salud.
 Los gatitos pueden tener una o más fotos asociadas.
-Adopciones:
 
+# Adopciones:
 Los adoptantes deben ser registrados con un ID único, nombre completo, dirección, teléfono de contacto, y correo electrónico.
 Un adoptante puede adoptar uno o más gatitos.
 Debe registrarse la fecha de adopción de cada gatito.
