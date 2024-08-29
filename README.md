@@ -11,21 +11,20 @@ Un grupo de voluntarios ha decidido crear un sistema para gestionar las adopcion
 Cada gatito debe ser registrado con un ID único, nombre, edad aproximada, sexo, fecha de ingreso al parque, y estado de salud.
 Los gatitos pueden tener una o más fotos asociadas.
 
-## Adopciones:
+### Adopciones:
 Los adoptantes deben ser registrados con un ID único, nombre completo, dirección, teléfono de contacto, y correo electrónico.
 Un adoptante puede adoptar uno o más gatitos.
 Debe registrarse la fecha de adopción de cada gatito.
 
-## Voluntarios:
+### Voluntarios:
 Los voluntarios que ayudan en el cuidado de los gatitos también deben ser registrados con un ID único, nombre, teléfono de contacto, y roles específicos (por ejemplo, alimentación, limpieza, etc.).
 Un voluntario puede estar asignado a uno o más gatitos para su cuidado.
 
-## Seguimiento de Salud:
-
+### Seguimiento de Salud:
 Es necesario llevar un registro de las visitas veterinarias, con detalles como la fecha, motivo de la visita, tratamiento realizado, y medicamentos recetados.
 Cada visita veterinaria debe estar asociada a un gatito específico y al veterinario responsable.
 
-## Veterinarios:
+### Veterinarios:
 Los veterinarios que colaboran con el sistema deben estar registrados con un ID único, nombre, especialidad, y teléfono de contacto.
 Un veterinario puede atender a múltiples gatitos.
 
